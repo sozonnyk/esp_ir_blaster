@@ -1,0 +1,66 @@
+@IN_1_UP_disabled #Player on
+1EE17E81 #Spk on
+4004:1007C7D #TV on
+P500 #Pause
+1EE152AD #BDsrc
+P100
+1EE19B64 #Movie
+P100
+7E8101FE #Clear Voice on
+
+@IN_1_DOWN_disabled #Player off
+4004:100FCFD #TV off
+1EE10AF5 #Stereo
+P100
+7E8141BE #Clear Voice off
+P100
+1EE1FE01 #Spk off
+
+@IN_2_UP #Chromecast on
+1EE17E81 #Spk on
+P500
+1EE10AF5 #Stereo
+P100
+7E8141BE #Clear Voice off
+P100
+1EE1FB04 #TV src
+
+@IN_2_DOWN #Chromecast off
+1EE1FE01 #Spk off
+
+/tv
+1EE17E81 #Spk on
+P500 #Pause
+1EE1FB04 #TV src
+
+/bt
+1EE17E81 #Spk on
+P500 #Pause
+1EE152AD #BDsrc
+
+/soff
+1EE1FE01 #Spk off
+
+/on
+1EE17E81 #Spk on
+4004:1007C7D #TV on
+P600 #Pause
+1EE152AD #BDsrc
+P100
+1EE19B64 #Movie
+P100
+7E8101FE #Clear Voice on
+
+/off
+4004:100FCFD #TV off
+1EE10AF5 #Stereo
+P100
+7E8141BE #Clear Voice off
+P100
+1EE1FE01 #Spk off
+
+/volup
+1EE17887
+
+/voldown
+1EE1F807

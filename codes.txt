@@ -1,0 +1,37 @@
+Yamaha SRT-1000 32 bit
+Encoding NEC
+
+TV 1EE1FB04 
+BD/DVD 1EE152AD 
+Coax 1EE1926D 
+Analog 1EE18B74 
+BT 1EE1946B 
+BT stby 1EE12CD3
+power toggle 1EE133CC
+power Off: 1EE1FE01
+power on: 1EE17E81
+v_up 1EE17887
+v_down 1EE1F807
+mute 1EE139C6
+sub_up 1EE132CD
+sub_down 1EE1F807
+stereo 1EE10AF5
+movie 1EE19B64
+clear voice toggle 1EE13AC5
+clear voice off: 7E8141BE
+clear voice on: 7E8101FE
+dvd src 1EE152AD
+BT src: 1EE1946B
+srt position L 1EE1847B
+srt position C 1EE144BB
+srt position R 1EE1C43B
+
+Pana 48 bit
+power toggle 4004:100BCBD
+power off: 4004:100FCFD
+power on 4004:1007C7D
+vol_down  4004:1008485
+vol_up 4004:1000405
+back: 4004:01002B2A
+exit 4004:0100CBCA
+Mute 400401004C4D
